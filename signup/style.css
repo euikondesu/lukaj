@@ -1,0 +1,53 @@
+body
+{
+	background-image:url("bg1.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 116%;
+}
+.input1
+{
+	background-color: rgba(255,255,128);
+	margin-left: 70px;
+	margin-top:50px;
+	width:245px;	
+	height:30px;
+}
+.input2
+{
+	background-color: rgba(255,255,128);
+	margin-left:70px;
+	margin-top:5px;
+	width:245px;	
+	height:30px;
+}
+.par
+{
+	color:rgba(215,215,215);
+	margin-left:70px;
+}
+.but
+{
+	color:rgba(215,215,215);
+	background-color: rgba(106,53,0,0.5);
+	margin-left: 70px;
+	margin-top:15px;
+	height:40px;
+	width:250px;
+	cursor:pointer;
+}
+h1
+{
+	color:rgba(215,215,215);
+	text-align:center;	
+}
+.login
+{
+	background-color: rgba(106,53,0,0.5);
+	height: 427px;
+	width:400px;
+	border:.5px solid black;
+	float:left;
+	margin-top:13%;
+	margin-left: 36%;
+	border-radius:27px;
+}
